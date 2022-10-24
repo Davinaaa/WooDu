@@ -1,0 +1,38 @@
+body {
+  background-color: #224D77;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 58px;
+}
+
+.welcomeText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 84px;
+  font-family: 'Futura Hv BT', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
+
+.allCollections {
+  padding: 87px 287px;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 74px;
+  column-gap: 32px;
+}
+
+.collectionItem{
+  width: 262px;
+  height: 262px;
+}

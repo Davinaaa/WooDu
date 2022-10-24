@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fe613dd.css",
+    "main.js": "/static/js/main.dd50c9c3.js",
+    "static/js/787.bdbce773.chunk.js": "/static/js/787.bdbce773.chunk.js",
+    "static/media/woodu-6.png": "/static/media/woodu-6.a679248e5ea88848a3e2.png",
+    "static/media/woodu-11.png": "/static/media/woodu-11.e1531a0050db1e2b07f1.png",
+    "static/media/woodu-7.png": "/static/media/woodu-7.44b79f0248bd61613046.png",
+    "static/media/woodu-5.png": "/static/media/woodu-5.905584ec8d36c4571a2a.png",
+    "static/media/woodu-4.png": "/static/media/woodu-4.b5474ac79283a8a2f01c.png",
+    "static/media/woodu-8.png": "/static/media/woodu-8.49187878b8d4a4808467.png",
+    "static/media/woodu-3.png": "/static/media/woodu-3.b197a884c6bd73bb55a2.png",
+    "static/media/woodu-2.png": "/static/media/woodu-2.e3916eb7e71d19cb40fd.png",
+    "static/media/logo.svg": "/static/media/logo.31fd96e467a43b73714ceacca66c8107.svg",
+    "static/media/woodu-9.png": "/static/media/woodu-9.3e323da2241347c341fb.png",
+    "static/media/woodu-0.png": "/static/media/woodu-0.36c778fa92302098526c.png",
+    "static/media/woodu-10.png": "/static/media/woodu-10.6c768773f5c13c3c041a.png",
+    "static/media/woodu-1.png": "/static/media/woodu-1.3b6c4a4096e3b3c2814c.png",
+    "index.html": "/index.html",
+    "main.9fe613dd.css.map": "/static/css/main.9fe613dd.css.map",
+    "main.dd50c9c3.js.map": "/static/js/main.dd50c9c3.js.map",
+    "787.bdbce773.chunk.js.map": "/static/js/787.bdbce773.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe613dd.css",
+    "static/js/main.dd50c9c3.js"
+  ]
+}

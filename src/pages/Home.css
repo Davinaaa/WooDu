@@ -2,15 +2,20 @@ body {
   background-color: #224D77;
 }
 
+.home {
+  padding: 10vh 10vw;
+}
+
 .logoContainer {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 10vh 5vw;
+  padding: 2vh 5vw;
 }
 
 .logo {
-  height: 15vh
+  max-height: 12vh;
+  max-width: 80vw;
 }
 
 .welcomeText {
@@ -25,10 +30,11 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #FFFFFF;
+  padding: 5vh 0;
 }
 
 .allCollections {
-  padding: 10vh 5vw;
+  padding: 5vh 0;
   display: flex;
   flex-wrap: wrap;
   row-gap: 10vh;

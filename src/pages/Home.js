@@ -1,5 +1,4 @@
 import WooDuLogo from "../WooDuLogo.png";
-
 import "./Home.css";
 
 function renderCollections() {
